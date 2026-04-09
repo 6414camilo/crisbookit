@@ -1,0 +1,10 @@
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\BookitApplication.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\config\CorsConfig.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\config\DataInitializer.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\controller\AppointmentController.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\controller\HealthController.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\controller\ServiceController.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\model\Appointment.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\model\Service.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\repository\AppointmentRepository.java
+C:\Users\Aprendiz\Desktop\aplicaciondocker\backend\src\main\java\com\bookit\repository\ServiceRepository.java
